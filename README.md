@@ -18,7 +18,8 @@ The “Employee experience” related pages show emerging insights on employee w
 Why it matters?
 <br> High levels of collaboration during working hours can force spillover collaboration into after-hours time, eroding employee morale and contributing to burnout over time.
 
-Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.<br> - correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
+Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.
+<br> - Correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,8 +30,8 @@ Why it matters?
 <br>Identifying and understanding differences in how organizations spend their collaboration time can shed light on broader differences between how teams get work done, and can in turn uncover both replicable best practices and areas of opportunity. At the same time, spotting patterns between certain types of collaboration and higher or lower after-hours collaboration time can reveal opportunities to improve work-life balance through small changes in the types of collaboration teams utilize.
 
 Insights:
-<br>- Do any organizations' predominant collaboration modes deviate notably from the other organizations? If so, are those differences easily explained by business context, or potentially worth deeper inquiry?
-<br>- Do any correlations appear to exist between the collaboration types that organizations utilize and the prevalence of after-hours communication within those organizations?
+<br>- Some organizations predominant collaboration modes deviate notably from the other organizations. Those differences are easily explained by business context, and is potentially worth of deeper inquiry for improvement.
+<br>- Correlations appear to exist between the collaboration types that organizations utilize and the prevalence of after-hours communication within those organizations.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
