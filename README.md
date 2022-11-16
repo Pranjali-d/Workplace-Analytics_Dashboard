@@ -9,6 +9,8 @@ This Workplace Analytics dashboard provides a quick and easy way to conduct a br
 The pages related to “Collaboration culture” will shed light on the collaboration behavior for different organizations and organizational levels and will introduce opportunities to act on to decrease collaboration overload.
 The “Employee experience” related pages show emerging insights on employee well-being, as well as effective manager practices that may contribute to employee engagement.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 **1. How is collaboration load impacting after-hours?**
 ![image](https://user-images.githubusercontent.com/49934575/202188437-9e2cd722-0a2f-4c51-83d2-03defd930292.png)  
 
@@ -43,3 +45,15 @@ Insights:
 <br>- What proportions of long or large meetings are recurring?
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**4. How much time is going towards long or large meetings?**
+![image](https://user-images.githubusercontent.com/49934575/202197313-01be6775-8daf-4125-a208-b140f2854102.png)
+
+Why it matters?
+Analyzing meeting practices at the organization level can help pinpoint the root sources of meeting efficiency opportunities and inform early intervention points. It can also uncover organizational bright spots, where strong results suggest certain leaders are using best practices that could be replicated across the company. 
+
+
+
+
+
+
