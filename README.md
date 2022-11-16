@@ -18,6 +18,8 @@ Why it matters?
 Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.<br> - correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
 
 
+
+
 **2. How do employees spend their weekly collaboration time?**
 ![image](https://user-images.githubusercontent.com/49934575/202195093-eda5d87c-a4d2-4ec9-bad9-dab4e941a597.png)
 
