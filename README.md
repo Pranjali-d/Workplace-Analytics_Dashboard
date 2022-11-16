@@ -161,8 +161,41 @@ Insights:
 - Which organizations have the highest rates of manager double-booking?
 - How strong (or weak) does the correlation appear to be between manager double-booking rate and increased manager meeting hours?
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**13. Are employees receiving sufficient 1:1 coaching time?**
+![image](https://user-images.githubusercontent.com/49934575/202211349-51f8c1ad-18fb-41bb-ae0c-a29b0c0841d6.png)
 
+Why it matters?
+Regular check-ins between employees and managers play an important role in driving employee engagement, alignment and role clarity. Research shows these meetings provide value when they take place for at least 15 minutes a week on average (equivalent to a 30-minute session every other week), and occur at least once every other week. The analyses above show average weekly 1:1 meeting time (left) and frequency of 1:1 meetings (right), split by organization.
+
+Insights:
+- (Left-side visual) What percentage of employees have no regular 1:1 time with their managers? What percentage have less than 15 mins/week?
+- (Right-side visual) What percentage of employees meet with managers less than once a quarter? How about less than once a month?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**14. Are managers co-attending too many  meetings?**
+![image](https://user-images.githubusercontent.com/49934575/202212086-af9d835b-13a6-4deb-bc6c-d65f1c3c66ca.png)
+
+Why it matters ?
+While there will always be a proportion of meetings that both managers and their directs should attend, high rates of manager co-attendance in meetings can signal opportunities to simultaneously empower employees through greater autonomy and free up manager meeting time, so managers can focus on other more strategic tasks. Note: at some companies, there are some functions for which meeting attendance/manager co-attendance expectations vary from the broader norm; recognizing that nuance when comparing functions is important.
+
+Insights:
+- (Left-side visual) In which organizations is manager co-attendance most prevalent?
+- (Right-side visual) For the organizations where managers frequently co-attend, are average manager meeting hours high? Might a reduction in co-attendance help reduce manager meeting burden?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**15. What managerial behaviors exist across the company?**
+![image](https://user-images.githubusercontent.com/49934575/202213219-3ae12bc9-a0c4-4035-b941-b74a91684167.png)
+
+Why it matters ?
+This analysis segments employees into four types based on the overlay of 1:1 meeting time and meeting co-attendance rate. The research-based premise is that the most engaged and successful employees have managers who regularly meet with them 1:1 but otherwise allow them to operate autonomously (these employees have “Coaching” managers). This overlay also shows what proportion of employees have managers who both meet 1:1 and co-attend meetings regularly (“Highly managed”), who seldom meet 1:1 but frequently co-attend (“Coattending”), and who seldom meet 1:1 and seldom co-attend (“Undercoached”).
+
+Insights:
+- (Left-side visual) What proportion of employees have high manager 1:1 minutes and low manager co-attendance?
+- (Right-side visual) In which organizations do manager types differ most from the aggregated, company-level view? What might explain that variation?
 
 
 
