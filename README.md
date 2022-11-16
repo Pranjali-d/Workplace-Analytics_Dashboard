@@ -124,8 +124,10 @@ Insights:
 **Employee experience**
 <br>
 <br>
+
 **10. When does collaboration start impacting after-hours?**
-![image](https://user-images.githubusercontent.com/49934575/202207011-b111399e-f6bd-4984-af45-192e17aa0840.png)
+![image](https://user-images.githubusercontent.com/49934575/202210226-7d90345e-0781-42c2-a117-6fff68c51600.png)
+
 
 Why it matters?
 Consistently high after-hours demands can harm employee engagement and contribute to burnout. But after-hours collaboration is often less a reflection of deliberate scheduling choices and more a function of scheduling necessities – when collaboration hours consume so much of the workday that they force all other work into after-hours time. This analysis shows whether a “tipping point” exists – a collaboration hours threshold above which after-hours time spikes.
