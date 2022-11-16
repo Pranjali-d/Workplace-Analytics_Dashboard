@@ -12,7 +12,7 @@ The “Employee experience” related pages show emerging insights on employee w
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## **COLLABORATION CULTURE**
 
-**1. How is collaboration load impacting after-hours?**
+### **1. How is collaboration load impacting after-hours?**
 ![image](https://user-images.githubusercontent.com/49934575/202188437-9e2cd722-0a2f-4c51-83d2-03defd930292.png)  
 
 **Why it matters?**
