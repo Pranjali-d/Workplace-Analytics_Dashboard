@@ -17,8 +17,7 @@ Why it matters?
 
 Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.<br> - correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
 
-
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **2. How do employees spend their weekly collaboration time?**
 ![image](https://user-images.githubusercontent.com/49934575/202195093-eda5d87c-a4d2-4ec9-bad9-dab4e941a597.png)
@@ -30,6 +29,7 @@ Insights:
 <br>- Do any organizations' predominant collaboration modes deviate notably from the other organizations? If so, are those differences easily explained by business context, or potentially worth deeper inquiry?
 <br>- Do any correlations appear to exist between the collaboration types that organizations utilize and the prevalence of after-hours communication within those organizations?
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **3. How does the organization spend its meeting time?**
 ![image](https://user-images.githubusercontent.com/49934575/202195886-a7276bf6-646e-4956-97eb-2c577efea92b.png)
@@ -41,4 +41,5 @@ Insights:
 <br>- What percentage of meeting time gets consumed by Lengthy, Bloated, Workshop and All hands meetings?
 <br>- What is the cost of those long or large meetings, in terms of FTE productivity equivalency?
 <br>- What proportions of long or large meetings are recurring?
-
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
