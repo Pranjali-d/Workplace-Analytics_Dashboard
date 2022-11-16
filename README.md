@@ -87,12 +87,16 @@ Insights:
 ![image](https://user-images.githubusercontent.com/49934575/202201492-bec2417c-f29e-4894-aa1c-a51a67443117.png)
 
 Why it matters ?
-While multitasking rates will vary naturally based on meeting types and company dynamics, consistently high rates of multitasking suggest meetings are routinely not as effective as they could be, given that attendees are focused on other things. This analysis helps determine whether multitasking rates are more a function of employees’ habits or the consequence of high collaboration levels, driven by a necessity to catch up on emails during  meetings because there isn’t enough other free time during the workday. If driven by habit, there may be opportunity to target interventions toward chronic multitaskers.
+<br>While multitasking rates will vary naturally based on meeting types and company dynamics, consistently high rates of multitasking suggest meetings are routinely not as effective as they could be, given that attendees are focused on other things. This analysis helps determine whether multitasking rates are more a function of employees’ habits or the consequence of high collaboration levels, driven by a necessity to catch up on emails during  meetings because there isn’t enough other free time during the workday. If driven by habit, there may be opportunity to target interventions toward chronic multitaskers.
 
 Insights:
 - (Left side visual) How strong (or weak) does the correlation appear to be between total avg. collaboration hours and avg. multitasking rates?
 - (Right side visual) What differences stand out when comparing multitasking rates and multitasking dynamics across the organizations? 
 - (Using slicer) What differences emerge between multitasking behaviors by level, with particular attention to Manager and Manager+, given their importance as decision-makers in meetings?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**7. Is multitasking driven by habit or necessity?**
 
 
 
