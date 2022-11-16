@@ -16,5 +16,5 @@ Why it matters?
 High levels of collaboration during working hours can force spillover collaboration into after-hours time, eroding employee morale and contributing to burnout over time.
 
 Insights:
-- Which organizations have the highest after-hours collaboration?
-- Where (if anywhere) do correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours?
+- Operations engineering   organizations have the highest after-hours collaboration.
+- correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
