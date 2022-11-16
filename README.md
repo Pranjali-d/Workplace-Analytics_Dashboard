@@ -10,7 +10,7 @@ The pages related to “Collaboration culture” will shed light on the collabor
 The “Employee experience” related pages show emerging insights on employee well-being, as well as effective manager practices that may contribute to employee engagement.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# **COLLABORATION CULTURE**
+## **COLLABORATION CULTURE**
 
 **1. How is collaboration load impacting after-hours?**
 ![image](https://user-images.githubusercontent.com/49934575/202188437-9e2cd722-0a2f-4c51-83d2-03defd930292.png)  
@@ -122,7 +122,7 @@ Insights:
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-**Employee experience**
+## **Employee experience**
 <br>
 <br>
 
