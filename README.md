@@ -10,6 +10,7 @@ The pages related to “Collaboration culture” will shed light on the collabor
 The “Employee experience” related pages show emerging insights on employee well-being, as well as effective manager practices that may contribute to employee engagement.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+****COLLABORATION CULTURE****
 
 **1. How is collaboration load impacting after-hours?**
 ![image](https://user-images.githubusercontent.com/49934575/202188437-9e2cd722-0a2f-4c51-83d2-03defd930292.png)  
@@ -96,9 +97,29 @@ Insights:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**7. Is multitasking driven by habit or necessity?**
+**8. Which recurring meetings could be streamlined?**
+![image](https://user-images.githubusercontent.com/49934575/202203965-e509f9c5-9b88-4343-83e9-e8f87b2f5bb0.png)
 
+Why it matters ?
+Recurring meetings with high multitasking rates often present the quickest, high-value opportunities to improve meeting effectiveness through two processes: 1) revisiting attendee lists to ensure only teams/employees who truly need to be present are included, and 2) revisiting meeting length and frequency to determine whether there are opportunities to reduce meeting cadence and/or duration.
 
+Insights:
+- (Left side visual) What proportion of recurring meetings fall at the nexus of high attendee hours and high number of emails sent per attendee hour?
+- (Right side visual) Of the “low engagement” recurring meetings – do any stand out as easy starting points for reducing number of attendees, duration, or frequency of recurrence?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**9. Can employees streamline email practices?**
+![image](https://user-images.githubusercontent.com/49934575/202205153-93fe44c1-c471-4d62-90cf-dec54051dbd6.png)
+
+Why it matters?
+While email is the most effective tool for many business scenarios, it is often not the quickest or most direct way to answer short clarifying questions. As companies strive to become more nimble, this analysis gives a first-level view into potential opportunities to shift email correspondence toward more agile communication methods, like Teams chats & ad-hoc calls. When a high proportion of sent emails are 1-to-1 or 1-to-several, there’s likely opportunity to migrate some of that correspondence to chat, which enables quicker and more direct answers to questions.
+
+Insights:
+- What percentage of emails are sent to just one recipient?
+- What percentage of emails are sent to 2-5 recipients?
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
