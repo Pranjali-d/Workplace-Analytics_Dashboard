@@ -48,7 +48,7 @@ The “Employee experience” related pages show emerging insights on employee w
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-###**4. How much time is going towards long or large meetings?**
+### **4. How much time is going towards long or large meetings?**
 ![image](https://user-images.githubusercontent.com/49934575/202197313-01be6775-8daf-4125-a208-b140f2854102.png)
 
 **Why it matters?**
@@ -88,7 +88,7 @@ The “Employee experience” related pages show emerging insights on employee w
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**7. Is multitasking driven by habit or necessity?**
+### **7. Is multitasking driven by habit or necessity?**
 ![image](https://user-images.githubusercontent.com/49934575/202201492-bec2417c-f29e-4894-aa1c-a51a67443117.png)
 
 Why it matters ?
