@@ -120,9 +120,44 @@ Insights:
 - What percentage of emails are sent to 2-5 recipients?
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Employee experience******
+<br>
+**Employee experience**
+<br>
+<br>
+**10. When does collaboration start impacting after-hours?**
+![image](https://user-images.githubusercontent.com/49934575/202207011-b111399e-f6bd-4984-af45-192e17aa0840.png)
 
+Why it matters?
+Consistently high after-hours demands can harm employee engagement and contribute to burnout. But after-hours collaboration is often less a reflection of deliberate scheduling choices and more a function of scheduling necessities – when collaboration hours consume so much of the workday that they force all other work into after-hours time. This analysis shows whether a “tipping point” exists – a collaboration hours threshold above which after-hours time spikes.
 
+Insights:
+- How strong (or weak) does the correlation appear between total collaboration hours and after-hours collaboration?
+- Is there a “tipping point” for collaboration hours, above which after-hours collaboration spikes?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**11. Who in the organization is at risk of burnout?**
+![image](https://user-images.githubusercontent.com/49934575/202207644-a942a873-b9b1-4e5d-9108-7e3edf43887e.png)
+
+Why it matters?
+Employees who have both long workweek spans and high average weekly collaboration hours may be at risk of burnout; they are consistently collaborating the most hours, and those hours are extending over a significant swath of each week – regularly eating into time outside of working hours. This analysis shows where within the company the burnout risk is most acute, at both the IC and manager level.
+
+Insights:
+- How does burnout risk look company-wide, by manager and by IC?
+- Where are there pockets of higher or lower burnout risk, by organization and by level? 
+- Outside of the highest burnout risk category – are there notably high or low readings in workweek span or total collaboration hours?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**12. How is manager double-booking impacting employees?**
+![image](https://user-images.githubusercontent.com/49934575/202208278-e9d0a1e6-8f4b-4a50-8ece-bc30bf466bae.png)
+
+Why it matters ?
+Double-booked meetings have downstream impacts that hinder organizational agility. When employees prepare for meetings in which a key stakeholder’s decision is required, only to learn that the stakeholder was double-booked and chose to attend a different meeting, that preparation and scheduled meeting time for all attendees is wasted. This cycle of rescheduling has a snowball effect, leading to more meetings on the calendar, and driving up managers’ meeting hours. When managers’ meeting time increases, they are less available to meet 1:1 with their direct reports to provide strategic guidance.
+
+Insights:
+- Which organizations have the highest rates of manager double-booking?
+- How strong (or weak) does the correlation appear to be between manager double-booking rate and increased manager meeting hours?
 
 
 
