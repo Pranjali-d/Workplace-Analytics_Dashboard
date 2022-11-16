@@ -15,5 +15,4 @@ The “Employee experience” related pages show emerging insights on employee w
 Why it matters?
 <br> High levels of collaboration during working hours can force spillover collaboration into after-hours time, eroding employee morale and contributing to burnout over time.
 
-Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.
-- correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
+Insights:<br>- Operations engineering   organizations have the highest after-hours collaboration.<br>- correlations appear to exist between percentage of workweek in collaboration and after-hours collaboration hours.
