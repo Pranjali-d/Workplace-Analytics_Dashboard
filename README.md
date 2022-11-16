@@ -71,6 +71,30 @@ Insights:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+**6. Can employees reclaim time through scheduling practices?**
+![image](https://user-images.githubusercontent.com/49934575/202200358-9beaef75-3f25-488d-b816-d06ea2d7095d.png)
+
+Why it matters ?
+<br>Not all unscheduled time during the workday has the same productivity potential. Concentrated work blocks of 2+ hours enable employees to drive projects to completion more quickly than fragmented pockets of time. Consider: if fragmented hours enable half the productivity of focused work time, then 8 hours of fragmented time each week represents half a workday squandered – multiplied across every employee, every week. Small changes to calendaring practices can reduce fragmentation and unlock more productivity from the same number of available weekly hours.
+
+Insights:
+<br>- How strongly do average meetings per week appear to correlate with average fragmented hours? Are there outlier organizations that buck the trend – meeting often without experiencing fragmentation?
+<br>- Are there comparably sized organizations with similar meeting hours but different fragmentation levels? How about with similar fragmentation levels but different meeting hours? If so, might certain organizations have a best practices around calendar management or meeting discipline that others can learn from?
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**7. Is multitasking driven by habit or necessity?**
+![image](https://user-images.githubusercontent.com/49934575/202201492-bec2417c-f29e-4894-aa1c-a51a67443117.png)
+
+Why it matters ?
+While multitasking rates will vary naturally based on meeting types and company dynamics, consistently high rates of multitasking suggest meetings are routinely not as effective as they could be, given that attendees are focused on other things. This analysis helps determine whether multitasking rates are more a function of employees’ habits or the consequence of high collaboration levels, driven by a necessity to catch up on emails during  meetings because there isn’t enough other free time during the workday. If driven by habit, there may be opportunity to target interventions toward chronic multitaskers.
+
+Insights:
+- (Left side visual) How strong (or weak) does the correlation appear to be between total avg. collaboration hours and avg. multitasking rates?
+- (Right side visual) What differences stand out when comparing multitasking rates and multitasking dynamics across the organizations? 
+- (Using slicer) What differences emerge between multitasking behaviors by level, with particular attention to Manager and Manager+, given their importance as decision-makers in meetings?
+
+
 
 
 
