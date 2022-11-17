@@ -56,9 +56,9 @@ The “Employee experience” related pages show emerging insights on employee w
 <br> Analyzing meeting practices at the organization level can help pinpoint the root sources of meeting efficiency opportunities and inform early intervention points. It can also uncover organizational bright spots, where strong results suggest certain leaders are using best practices that could be replicated across the company. 
 
 **Insights:**
-- Software organizations spend the highest percentage of their meeting time in long or large meetings.
+- Operations organizations spend the highest percentage of their meeting time in All hands meetings.
 - Prevalence of each meeting type within each organization are easily explained by business context.
-- Might any organizations with particularly streamlined meeting practices have replicable best practices for the rest of the company?
+- Software organizations have streamlined meeting practices can be a replicable best practice for the rest of the company.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,10 +82,10 @@ The “Employee experience” related pages show emerging insights on employee w
 <br> Not all unscheduled time during the workday has the same productivity potential. Concentrated work blocks of 2+ hours enable employees to drive projects to completion more quickly than fragmented pockets of time. Consider: if fragmented hours enable half the productivity of focused work time, then 8 hours of fragmented time each week represents half a workday squandered – multiplied across every employee, every week. Small changes to calendaring practices can reduce fragmentation and unlock more productivity from the same number of available weekly hours.
 
 **Insights:**
-- Average meetings per week appear to correlate with average fragmented hours strongly
+- Average meetings per week appear to correlate with average fragmented hours strongly.
 - There are outlier organizations also, that buck the trend – meeting often without experiencing fragmentation.
 - There are comparably sized organizations with similar meeting hours but different fragmentation levels. 
-- Organizations also with similar fragmentation levels but different meeting hours are present. So,  certain organizations have a best practices around calendar management or meeting discipline that others can learn from.
+- Organizations also with similar fragmentation levels but different meeting hours are present. So, these organizations have a best practices around calendar management or meeting discipline that others can learn from.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ The “Employee experience” related pages show emerging insights on employee w
 
 **Insights:**
 - Weak correlation appears to be between total avg. collaboration hours and avg. multitasking rates.
-- When comparing multitasking rates and multitasking dynamics across the organizations Sales appears to be achronic multitaskers, and startegy appears to be adversley impacted. 
+- When comparing multitasking rates and multitasking dynamics across the organizations sales appears to be a chronic multitaskers, and startegy appears to be adversley impacted. 
 
 <!-- 
 - (Using slicer) What differences emerge between multitasking behaviors by level, with particular attention to Manager and Manager+, given their importance as decision-makers in meetings?
@@ -110,7 +110,7 @@ The “Employee experience” related pages show emerging insights on employee w
 ![image](https://user-images.githubusercontent.com/49934575/202203965-e509f9c5-9b88-4343-83e9-e8f87b2f5bb0.png)
 
 **Why it matters ?**
-Recurring meetings with high multitasking rates often present the quickest, high-value opportunities to improve meeting effectiveness through two processes:
+<br> Recurring meetings with high multitasking rates often present the quickest, high-value opportunities to improve meeting effectiveness through two processes:
 1) revisiting attendee lists to ensure only teams/employees who truly need to be present are included, and 
 2) revisiting meeting length and frequency to determine whether there are opportunities to reduce meeting cadence and/or duration.
 
@@ -159,7 +159,7 @@ Recurring meetings with high multitasking rates often present the quickest, high
 <br> Employees who have both long workweek spans and high average weekly collaboration hours may be at risk of burnout; they are consistently collaborating the most hours, and those hours are extending over a significant swath of each week – regularly eating into time outside of working hours. This analysis shows where within the company the burnout risk is most acute, at both the IC and manager level.
 
 **Insights:**
-- At company_wide if we look at burnout risk  by manager and by IC, it seems like 33% of employee from mngr level have long span and high collab as compared to IC which have only 6% of long span and h9igh collab hrs.
+- At company wide if we look at burnout risk  by manager and by IC, it seems like 33% of employee from mngr level have long span and high collab as compared to IC which have only 6% of long span and h9igh collab hrs.
 - By organization and by level  there appears to be 77% of higher and 10% of  lower burnout risk pockets.
 - Outside of the highest burnout risk category, there are notably high  readings in workweek span.
 
