@@ -97,7 +97,11 @@ The “Employee experience” related pages show emerging insights on employee w
 **Insights:**
 <br> -  Weak correlation appears to be between total avg. collaboration hours and avg. multitasking rates.
 <br> -  When comparing multitasking rates and multitasking dynamics across the organizations Sales appears to be achronic multitaskers, and startegy appears to be adversley impacted. 
+
+<!-- 
 <br> - (Using slicer) What differences emerge between multitasking behaviors by level, with particular attention to Manager and Manager+, given their importance as decision-makers in meetings?
+-->
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -110,7 +114,10 @@ Recurring meetings with high multitasking rates often present the quickest, high
 <br> 2) revisiting meeting length and frequency to determine whether there are opportunities to reduce meeting cadence and/or duration.
 
 **Insights:**
-// <br> - (Left side visual) What proportion of recurring meetings fall at the nexus of high attendee hours and high number of emails sent per attendee hour?
+<!--
+ <br> - (Left side visual) What proportion of recurring meetings fall at the nexus of high attendee hours and high number of emails sent per attendee hour? 
+-->
+
 <br> - Of the “low engagement” recurring meetings – "the fundraising", "tom the up" , "send project" stand out as easy starting points for reducing number of attendees, duration, or frequency of recurrence as those project extrmley high email per antdee hour compared to others.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
