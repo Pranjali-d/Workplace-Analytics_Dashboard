@@ -1,5 +1,6 @@
 # Workspace-Analytics_Dashboard
 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 This Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes: 
