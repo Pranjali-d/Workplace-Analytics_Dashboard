@@ -1,6 +1,6 @@
 # Workspace-Analytics_Dashboard
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![logo (1)](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/0da3b7ad-a776-4e44-a0b2-a5079cde610e)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 
 
