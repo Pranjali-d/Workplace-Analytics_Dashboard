@@ -2,6 +2,8 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
+![viva logo](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403)
+
 
 
 This Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes: 
