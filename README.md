@@ -1,11 +1,10 @@
-# Workspace-Analytics_Dashboard
+# Workplace Analytics Dashboard
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-
-![viva logo](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403)
-
+                                                                                                                         
+![viva logo](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403)    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 
 
+## OVERVIEW
 This Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes: 
 - company's "Collaboration culture" 
 - "Employee experience"
@@ -14,7 +13,10 @@ The pages related to “Collaboration culture” will shed light on the collabor
 The “Employee experience” related pages show emerging insights on employee well-being, as well as effective manager practices that may contribute to employee engagement.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## **COLLABORATION CULTURE**
+
+## PREVIEW 
+
+## **Collaboration Culture**
 
 ### **1. How is collaboration load impacting after-hours?**
 ![image](https://user-images.githubusercontent.com/49934575/202188437-9e2cd722-0a2f-4c51-83d2-03defd930292.png)  
