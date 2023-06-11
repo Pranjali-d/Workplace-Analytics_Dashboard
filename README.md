@@ -4,7 +4,7 @@
 ![viva logo](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403)    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
 
 
-## OVERVIEW
+## Overview
 This Workplace Analytics dashboard provides a quick and easy way to conduct a broad diagnostic on 2 themes: 
 - company's "Collaboration culture" 
 - "Employee experience"
@@ -13,8 +13,9 @@ The pages related to “Collaboration culture” will shed light on the collabor
 The “Employee experience” related pages show emerging insights on employee well-being, as well as effective manager practices that may contribute to employee engagement.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Dashbaord Preview 
+![image](https://github.com/Pranjali-d/Pranjali-d/blob/main/resources/wpa_gif.gif)
 
-## ANALYSIS
 
 ## **Collaboration Culture**
 
