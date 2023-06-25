@@ -1,7 +1,6 @@
 # Workplace Analytics Dashboard
 
-                                                                                                                         
-![viva logo](https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403)    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
+ <img src="https://github.com/Pranjali-d/Workspace-Analytics_Dashboard/assets/49934575/d96fa8a4-43ae-4c57-8abe-af6139615403" alt="python" width="30" height="30"/>   &nbsp;  &nbsp; ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)   &nbsp;   &nbsp;  ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) 
 
 
 ## Overview
